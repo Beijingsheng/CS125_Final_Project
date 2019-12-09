@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <array name="position">
+        <item>Hitter</item>
+        <item>Passer</item>
+        <item>Setter</item>
+    </array>
+    <array name="team">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </array>
+</resources>
